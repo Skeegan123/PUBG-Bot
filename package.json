@@ -1,0 +1,25 @@
+{
+  "name": "pubg-bot",
+  "version": "1.0.0",
+  "description": "A basic Discord bot for \"The Official PUBG Squad\" Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skeegan123/PUBG-Bot.git"
+  },
+  "author": "Keegan Gaffney",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skeegan123/PUBG-Bot/issues"
+  },
+  "homepage": "https://github.com/Skeegan123/PUBG-Bot#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.12.0",
+    "@discordjs/rest": "^0.3.0",
+    "discord-api-types": "^0.31.0",
+    "discord.js": "^13.6.0"
+  }
+}
